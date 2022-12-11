@@ -4,8 +4,8 @@
 ### :busts_in_silhouette:Student name: 
 ####       Nguyen Minh Tri 20110422 
 ####       Phan Thanh Luan 20110380
-####       Vo Minh Hung 20110374
-####       Truong Chi Kien 20110421
+####       Vo Minh Hung 20110426
+####       Truong Chi Kien 20110376
 # LINK VIDEO DEMO: https://www.youtube.com/watch?v=TG6js01qBuY
 # INTRODUCTION
 ##  We would like to express our gratitude to the professor, PhD. Tran Nhat Quang, who helped us personally throughout the topic-making process in order to successfully complete this topic and this report. We appreciate the teacher's advise from his real-world experience in helping us meet the requirements of the chosen topic, as well as his willingness to always respond to our queries and offer suggestions and corrections. time to assist us in overcoming our flaws and completing it successfully and on time.
